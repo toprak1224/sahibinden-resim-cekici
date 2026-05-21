@@ -1,4 +1,4 @@
-# Sahibinden Resim Çekici
+# Sahibinden.com Resim Çekici
 
 Sahibinden.com ilan sayfasındaki tüm resimleri önizleyip tek tıkla indiren masaüstü uygulaması.
 
