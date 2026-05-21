@@ -3,6 +3,7 @@
 Sahibinden.com ilan sayfasındaki tüm resimleri önizleyip tek tıkla indiren masaüstü uygulaması.
 
 ---
+<img width="1042" height="750" alt="Ekran görüntüsü 2026-05-21 191451" src="https://github.com/user-attachments/assets/e9d779e0-750a-443a-b61e-3a0a71556b87" />
 
 ## Özellikler
 
